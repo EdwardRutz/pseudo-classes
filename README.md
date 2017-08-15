@@ -1,7 +1,7 @@
 #README
 
 # [X] CSS pseudo-class exercise
-
+Apply CSS to elements using pseudo classes.
 
 ## Requirements
 
@@ -11,7 +11,7 @@
 
 - [X] Currently, the `<li>` items are block level elements. 
 	- Add correct styles to remove the bullets and 
-		- display them as inline elements.
+	- display them as inline elements.
 
 - [X] The three `<span>` elements should be displayed as block elements 
 	- with a 1 pixel border and 
